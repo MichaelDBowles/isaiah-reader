@@ -23,7 +23,7 @@ You can download the Isaiah Reader for offline use in several ways:
 ### Option 1: Download individual file 'index.html'
 - Click on the file in this repository.
 - Select **Download raw file**.
-MIT-License is a permissive license. The Isaiah Reader may be downloaded as a single file (`index.html`) and does not require any additional steps. Upon redistributing the file or an adapted version, include the MIT License copy.
+- Note: MIT-License is a permissive license. The Isaiah Reader may be downloaded as a single file (`index.html`) and does not require any additional steps. Upon redistributing the file or an adapted version, include the MIT License copy.
 
 ### Option 2: Download ZIP
 1. Click the **Code** button at the top of this repository.
